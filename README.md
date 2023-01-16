@@ -2,6 +2,9 @@
 
 Task is [here](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/crud-api/assignment.md)
 
+142/222 
+Just basic and advanced scope
+
 ## Hot to install
 
 clone project
